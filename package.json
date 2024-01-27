@@ -1,0 +1,17 @@
+{
+  "name": "demo-midtrans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
